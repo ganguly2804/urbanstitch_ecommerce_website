@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7a655069-6042-44a1-9981-928160118a83" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/urbanstitch-backend/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/urbanstitch-backend/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/urbanstitch-backend/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/urbanstitch-backend/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/urbanstitch-backend/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/urbanstitch-backend/src/main/java/com/urbanstitch/urbanstitch_backend/UrbanstitchBackendApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/urbanstitch-backend/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/urbanstitch-backend/src/test/java/com/urbanstitch/urbanstitch_backend/UrbanstitchBackendApplicationTests.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="2mGzBGDQPKUBRsDk5so39DFqiYu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/GitHub/UrbanStitch – An E-commerce Website"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7a655069-6042-44a1-9981-928160118a83" name="Changes" comment="" />
+      <created>1726717564018</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1726717564018</updated>
+    </task>
+    <servers />
+  </component>
+</project>
